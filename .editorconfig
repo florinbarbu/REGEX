@@ -1,0 +1,4 @@
+# Reguli custom pentru fișierele SQL.
+[*.sql]
+charset = utf-8
+end_of_line = crlf

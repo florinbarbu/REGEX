@@ -1,0 +1,2 @@
+# Păstrează encoding-ul și CRLF ale fișierelor SQL fără conversie Git.
+*.sql -text
